@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\wykłady\_4TPA_gr_1\_4TPA_gr_1\bin\Debug\_4TPA_gr_1.exe.config
+C:\Users\admin\Desktop\wykłady\_4TPA_gr_1\_4TPA_gr_1\bin\Debug\_4TPA_gr_1.exe
+C:\Users\admin\Desktop\wykłady\_4TPA_gr_1\_4TPA_gr_1\bin\Debug\_4TPA_gr_1.pdb
+C:\Users\admin\Desktop\wykłady\_4TPA_gr_1\_4TPA_gr_1\obj\Debug\_4TPA_gr_1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\wykłady\_4TPA_gr_1\_4TPA_gr_1\obj\Debug\_4TPA_gr_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\wykłady\_4TPA_gr_1\_4TPA_gr_1\obj\Debug\_4TPA_gr_1.exe
+C:\Users\admin\Desktop\wykłady\_4TPA_gr_1\_4TPA_gr_1\obj\Debug\_4TPA_gr_1.pdb
