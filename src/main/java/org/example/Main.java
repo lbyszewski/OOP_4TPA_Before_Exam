@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.Dziedziczenie.Child;
+import org.example.Dziedziczenie.Parent;
 import org.example.Reukrencja.Recursion;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -10,6 +12,14 @@ public class Main {
         Recursion recursion = new Recursion();
 
         System.out.println(recursion.factorialFunction(5));
+
+
+        Parent parent = new Parent("Jarek", "Wosiński");
+
+        Child child = new Child("Adam", "Wosiński", "CS-GO ");
+
+        parent.showInfo();
+        child.showInfo();
 
     }
 }
