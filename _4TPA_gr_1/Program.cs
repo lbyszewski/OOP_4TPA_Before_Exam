@@ -19,6 +19,12 @@ namespace _4TPA_gr_1
             Console.WriteLine(encapsulation.FirstName + " " + encapsulation.LastName);
 
 
+
+            Parent  parent = new Parent(1, "Adam",50);
+            ChildOne childOne = new ChildOne(2, "Marta", 30, "mylogic");
+            parent.show();
+            childOne.show();
+
             Console.ReadKey();
 
 
